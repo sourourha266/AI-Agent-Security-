@@ -1,4 +1,4 @@
-# AI Agents & Anomaly Detection Portfolio
+# AI Agents & Anomaly Detection 
 
 This repository is a curated collection of presentations and resources exploring the core concepts of AI Agents, various frameworks for building them, and the application of Anomaly Detection in cybersecurity and data analysis. It serves as a knowledge base and reference guide for these advanced AI topics.
 
